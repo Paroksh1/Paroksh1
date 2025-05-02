@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paroksh1&label=Profile%20views&color=0e75b6&style=flat" alt="paroksh1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paroksh1" alt="paroksh1" /></a> </p>
-
 - 🔭 I’m currently working on **A personalized nutrition dashboard for children, and contributing to open-source govtech projects (C4GT, Sugar Labs).**
 
 - 🌱 I’m currently learning **Backend development with Node.js, system design basics**
