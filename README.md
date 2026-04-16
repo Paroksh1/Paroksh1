@@ -15,8 +15,6 @@
 
 - 💻 Tech I use daily **avaScript, React.js, TailwindCSS, Git, VSCode, Postman**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iQK1UBNCIaREOvBTNIIi2BoadU2dEdyG/view?usp=sharing](https://drive.google.com/file/d/1iQK1UBNCIaREOvBTNIIi2BoadU2dEdyG/view?usp=sharing)
-
 - ⚡ Fun fact **I love debugging way more than I should, and I’m that friend who voluntarily redesigns everyone’s websites.**
 
 <h3 align="left">Connect with me:</h3>
